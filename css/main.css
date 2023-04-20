@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div.a{
+    width: 200px;
+    height: 200px;
+    background-color: royalblue;
+    padding: 30px;
+    text-align: center;
+}
